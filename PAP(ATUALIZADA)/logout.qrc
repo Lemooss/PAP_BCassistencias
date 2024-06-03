@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="sairlogin">
+    <file>cartao-de-endereco.png</file>
+    <file>adicionar-usuario.png</file>
+  </qresource>
+</RCC>
